@@ -1,0 +1,20 @@
+@import './typography.css';
+
+/* --font-size-base-unit = 16px */
+
+* {
+  --spacing-tiny: calc(0.25 * var(--font-size-base-unit)); /* 4px */
+  --spacing-xxsmall: calc(0.5 * var(--font-size-base-unit)); /* 8px */
+  --spacing-xsmall: calc(0.75 * var(--font-size-base-unit)); /* 12px */
+
+  --spacing-default: calc(1 * var(--font-size-base-unit)); /* 16px */
+
+  --spacing-small: calc(1.5 * var(--font-size-base-unit)); /* 24px */
+  --spacing-medium: calc(2 * var(--font-size-base-unit)); /* 32px */
+  --spacing-large: calc(2.5 * var(--font-size-base-unit)); /* 40px */
+  --spacing-xlarge: calc(4 * var(--font-size-base-unit)); /* 64px */
+  --spacing-xxlarge: calc(5 * var(--font-size-base-unit)); /* 80px */
+  --spacing-huge: calc(7 * var(--font-size-base-unit)); /* 112px */
+  --spacing-xhuge: calc(8.5 * var(--font-size-base-unit)); /* 136px */
+  --spacing-xxhuge: calc(14.5 * var(--font-size-base-unit)); /* 232px */
+}
