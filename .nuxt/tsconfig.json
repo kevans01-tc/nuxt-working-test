@@ -67,7 +67,7 @@
         "../node_modules/pinia/dist/pinia"
       ],
       "#mdc-imports": [
-        "file:///Users/karenevans/Documents/nuxt-working-test/.nuxt/mdc-imports.mjs"
+        "./mdc-imports"
       ],
       "#vue-router": [
         "./vue-router"
