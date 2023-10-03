@@ -1,0 +1,1 @@
+import{_ as o,f as n,w as c,g as a,o as s,a as t}from"./entry.57ffcc43.js";const _={},r=t("section",null,[t("div",null,"product catalog index")],-1);function u(d,i){const e=a;return s(),n(e,{name:"subsection"},{default:c(()=>[r]),_:1})}const f=o(_,[["render",u]]);export{f as default};

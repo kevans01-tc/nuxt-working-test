@@ -67,7 +67,7 @@
         "../node_modules/pinia/dist/pinia"
       ],
       "#mdc-imports": [
-        "./mdc-imports"
+        "./mdc-imports.mjs"
       ],
       "#vue-router": [
         "./vue-router"

@@ -16,5 +16,4 @@ export { withContentBase, useContentDisabled as useContentState, useContentDisab
 export { useUnwrap } from '../node_modules/@nuxt/content/dist/runtime/composables/useUnwrap';
 export { fetchContentNavigation } from '../node_modules/@nuxt/content/dist/runtime/legacy/composables/navigation';
 export { flatUnwrap as unwrapSlot } from '../node_modules/@nuxtjs/mdc/dist/runtime/utils/node';
-export { useNuxtDevTools } from '../node_modules/@nuxt/devtools/dist/runtime/use-nuxt-devtools';
 export { definePageMeta } from '../node_modules/nuxt/dist/pages/runtime/composables';

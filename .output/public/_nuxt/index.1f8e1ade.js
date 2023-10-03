@@ -1,0 +1,1 @@
+import{_ as n,f as o,w as s,g as c,o as _,a as e}from"./entry.57ffcc43.js";const a={},r=e("section",null,[e("div",null,"lowest index")],-1);function i(u,d){const t=c;return _(),o(t,{name:"subsection"},{default:s(()=>[r]),_:1})}const f=n(a,[["render",i]]);export{f as default};
