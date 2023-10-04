@@ -58,7 +58,7 @@
         "../node_modules/pinia/dist/pinia"
       ],
       "#mdc-imports": [
-        "./mdc-imports"
+        "./file:/Users/karenevans/Documents/nuxt-working-test/.nuxt/mdc-imports"
       ],
       "#content/server": [
         "../node_modules/@nuxt/content/dist/runtime/legacy/server"
