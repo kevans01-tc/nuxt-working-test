@@ -1,7 +1,7 @@
 <template>
   <NuxtLayout name="subsection">
     <section>
-      <div>lowest index (landing)</div>
+      <div>lowest index (testing)</div>
     </section>
   </NuxtLayout>
 </template>
